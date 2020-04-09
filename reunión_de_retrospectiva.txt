@@ -1,4 +1,4 @@
-Al terminar realizamos reunión de retrospectiva donde llegamos a la siguiente conclusión:
+Al terminar realizamos una reunión de retrospectiva donde llegamos a la siguiente conclusión:
 Las cosas buenas.
 EL utilizar Jira y GitHub facilita bastante el manejo de la Kanban Board y debe seguirse usando en funturos proyectos.
 Debido a que trabajamos a distancia usamos redes sociales y plataformas como discord que nos permiten comunicarnos bastante bien.
