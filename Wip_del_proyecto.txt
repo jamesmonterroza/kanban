@@ -1,0 +1,9 @@
+El WIP del proyecto sera el siguiente 
+Campo                               cantidad de tareas 
+Work item list                      indefinido
+To do                               2
+development-In Progress             3
+development-Done                    2
+Test-In Progress                    3
+Test-done                           2  
+Completed                           indefinido 
