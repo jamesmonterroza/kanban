@@ -1,0 +1,10 @@
+Al terminar realizamos reunión de retrospectiva donde llegamos a la siguiente conclusión:
+Las cosas buenas.
+EL utilizar Jira y GitHub facilita bastante el manejo de la Kanban Board y debe seguirse usando en funturos proyectos.
+Debido a que trabajamos a distancia usamos redes sociales y plataformas como discord que nos permiten comunicarnos bastante bien.
+Nos marcamos tiempos para realizar tareas los cuales nos permiten avanzar de forma continua.
+
+Las cosas malas.
+No todos nuestros compañeros tienen internet o equipos(computadoras telefonos) adecuados para trabajar.
+Aveces pasan mucho tiempo sin conectarse y eso nos da problemas a la hora de repartir trabajo y ponernos de acuerdo.
+Implementamos horarios comunes para conectarnos y hablar pero no todos pueden y nos retrasamos por eso.
